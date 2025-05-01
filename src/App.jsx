@@ -9,7 +9,7 @@ import Dashboard from "./pages/dashboard/Dashboard";
 // import TaskManager from './pages/task/TaskManager';
 // import Connection from './pages/connect/Connect';
 
-import Sidebar from "./components/common/SideBar";
+import Sidebar from "./components/common/Sidebar";
 import RightPanel from "./components/common/RightPanel";
 
 import { Toaster } from "react-hot-toast";
